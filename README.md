@@ -46,13 +46,13 @@ responsive-image-gallery-html-css-js/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/responsive-image-gallery-html-css-js.git
+git clone https://github.com/your-username/image-gallery-html-css-js.git
 ```
 
 ### Navigate to the Project
 
 ```bash
-cd responsive-image-gallery-html-css-js
+cd image-gallery-html-css-js
 ```
 
 ### Open the Project
