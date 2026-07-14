@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aperture — Image Gallery</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">Field notes — 06 rolls</div>
+  <h1>Aperture</h1>
+  <p>A small, rotating collection of frames — sorted by subject, not by date. Click any frame to open it full-screen.</p>
+</header>
+
+<div class="filters" id="filters"></div>
+<div class="grid" id="grid"></div>
+
+<div class="lightbox" id="lightbox">
+  <button class="lb-close" id="lbClose">✕</button>
+  <button class="lb-prev" id="lbPrev">‹</button>
+  <img id="lbImg" src="" alt="">
+  <button class="lb-next" id="lbNext">›</button>
+  <div class="lb-caption" id="lbCaption"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
